@@ -1,0 +1,47 @@
+Hennge
+
+
+I. Three mission
+
+Mission 1
+
++ Calculate the sum of squares of given integer, excluding
+negative integer
+  + input N: 1 <= N <= 100
+  + given integer: 1,2,3,4,5, -1, -2, -3
+  + s = 1^2 + 2^2 + 3^2 + 4^2 + 5^2
+
++ Rule
+  + use Go Programing Language
+  + Do not use any "for" and "goto" statement
+
++ Sample Input 
+  + the first line of the input
+  will be an integer N (1 <= N <= 100) indicating 
+  the number of the test cases to follow
+  + each of test cases will consist of a line with 
+  an integer X (0 < X <= 100), followed by another
+  line consisting of X number of space-separated 
+  integers Yn (-100 <= Yn <= 100)
+
+
++ Sample Input 
+2
+4
+3 -1 1 14
+5
+9 6 -53 32 16
+
+
++ Sample Output
+206
+1397
+
+
+
+II. Technical Stack
+Programming Language: Go
++ Package: https://pkg.go.dev/
++ Source: https://go.dev/
+
+
