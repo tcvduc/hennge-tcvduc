@@ -43,5 +43,7 @@ II. Technical Stack
 Programming Language: Go
 + Package: https://pkg.go.dev/
 + Source: https://go.dev/
++ run go file: go run 1.go
+
 
 
